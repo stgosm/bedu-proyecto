@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins';
+    height: 100vh;
+}
+
+.headerGeneral {
+    background-color: #3f9d6b !important;
+}
+
+.logoHeader {
+    line-height: 1.1em;
+    font-size: 2.5em;
+    color: #fff !important;
+    font-weight: 700;
+}
+
+.pestañas, .boardGeneral {
+    padding: 0;
+}
+
+.boardGeneral {
+    padding: 5%;
+}
+
+.pestañas {
+    border-right: 1px solid #e0e0e0 !important;
+}
+
+.list-group-item {
+    border-left: none;
+    border-right: none;
+}
+
+.acordeonAreas .list-group-item {
+    border: none !important;
+}
+
+#btnArea {
+    border-bottom: none;
+}
+
+.containRq {
+    background-color: #e0e0e0;
+    padding: 3% 5%;
+}
